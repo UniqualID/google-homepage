@@ -1,0 +1,29 @@
+.center{
+	text-align:center;
+}
+
+input[type="text"] {
+    width: 500px;
+}
+
+.logo {
+    display: inline-block;
+    /* width: 600px; */
+    /* height: 300px; */
+}
+
+.logo {
+    overflow: hidden;
+}
+
+.logo img{
+	/* transform:scale(.25, .25); */
+	display: block;
+	/* object-fit: contain; */
+	height: 280px;
+	width: 900px;
+}
+
+.searchBar{
+	position:relative;
+}
